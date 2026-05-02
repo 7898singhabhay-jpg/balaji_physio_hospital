@@ -1,0 +1,17 @@
+body {
+  font-family: 'Inter', sans-serif;
+  background: #f3f6ff;
+  color: #1f2937;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+a {
+  color: #0f172a;
+}
+
+.MuiPaper-root {
+  background: rgba(255, 255, 255, 0.96);
+}
